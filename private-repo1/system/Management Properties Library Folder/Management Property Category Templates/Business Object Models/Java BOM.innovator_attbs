@@ -1,0 +1,15 @@
+#Extended attributes for Innovator file-based repository (directory: 'Java BOM')
+#Wed Jul 03 11:05:50 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=1KdJLcelV7gkyfTj9nhYVlgqG7r
+innovatorDisplayName=Java BOM
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Java BOM
+isSystemTemplate=true
+subType=Management Property Category
+target=Repository
+type=Management Properties Definition

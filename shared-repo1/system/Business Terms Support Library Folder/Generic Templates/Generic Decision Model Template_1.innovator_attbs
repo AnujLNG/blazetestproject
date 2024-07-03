@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Generic Decision Model Template_1')
+#Wed Jul 03 11:05:38 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=Rc1M1COHvQeYjgTsuRNKvNrISSG
+innovatorDisplayName=Generic Decision Model Template
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Generic Decision Model Template_1
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=Decision Model
+target=SRL
+type=SRL Project Items

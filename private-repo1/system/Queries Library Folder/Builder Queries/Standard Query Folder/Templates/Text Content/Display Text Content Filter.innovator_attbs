@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Display Text Content Filter')
+#Wed Jul 03 11:05:58 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=ZKja8Oc30Tws0bxYqCdGBtAVDXx
+innovatorDisplayName=Display Text Content Filter
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Display Text Content Filter
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

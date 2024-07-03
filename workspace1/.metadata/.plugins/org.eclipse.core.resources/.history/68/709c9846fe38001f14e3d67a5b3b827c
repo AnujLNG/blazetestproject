@@ -1,0 +1,10 @@
+#Extended attributes for Eclipse file-based repository (directory: 'Decision Table Template')
+#Wed Jul 03 11:07:02 IST 2024
+com.blazesoft.repository.local.locallycreated=true
+contentType=Template
+guid=KdXNBTiSS24NFzrciou958Y60FS
+innovatorItemCreationId=eclipse
+innovatorLastModifiedUser=eclipse
+subType=Decision Table
+target=SRL
+type=SRL Ruleset

@@ -1,0 +1,12 @@
+#Extended attributes for Innovator file-based repository (directory: 'Template Entities')
+#Wed Jul 03 11:05:51 IST 2024
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=1MmcDTiHUef8yaS2um8zXLQ99NQ
+innovatorDisplayName=TemplateEntitiesFolder
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorName=Template Entities
+isNameLocalized=true
+isSystemDirectory=true
+resourceBundle=com.blazesoft.template.repository.properties.strings

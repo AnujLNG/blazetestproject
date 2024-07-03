@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'ClassPropertiesProvider_1')
+#Wed Jul 03 11:05:42 IST 2024
+contentType=Provider
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=RiVwxOsrkzQkQjKpaBzFmvBtZfA
+innovatorDisplayName=Class Properties Provider
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=ClassPropertiesProvider_1
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=Class Property

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>Srl Entities</ItemName>
+	<IsDirectory>true</IsDirectory>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>eclipse</User>
+		<Comment>Sets up system folder</Comment>
+		<Timestamp>3 Jul 2024 05:35:35 GMT</Timestamp>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInTime</AttributeKey>
+			<AttributeValue>03/07/24, 11:05 am</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>entryLastCheckInUser</AttributeKey>
+			<AttributeValue>eclipse</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>guid</AttributeKey>
+			<AttributeValue>1tAbcPksfJuw62XuArifCQdfpQM</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorDisplayName</AttributeKey>
+			<AttributeValue>SrlEntitiesFolder</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemCreationId</AttributeKey>
+			<AttributeValue>eclipse</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorItemVersionId</AttributeKey>
+			<AttributeValue>1</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorLastModified</AttributeKey>
+			<AttributeValue>03/07/24, 11:05 am</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>innovatorName</AttributeKey>
+			<AttributeValue>Srl Entities</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>isNameLocalized</AttributeKey>
+			<AttributeValue>true</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>isSystemDirectory</AttributeKey>
+			<AttributeValue>true</AttributeValue>
+		</EntryAttribute>
+		<EntryAttribute>
+			<AttributeKey>resourceBundle</AttributeKey>
+			<AttributeValue>com.blazesoft.template.repository.properties.strings</AttributeValue>
+		</EntryAttribute>
+	</VersionElement>
+</VersionInfoTable>

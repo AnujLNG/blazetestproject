@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>testproject1</ItemName>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>eclipse</User>
+		<Comment>initial checkin</Comment>
+		<Timestamp>3 Jul 2024 05:37:37 GMT</Timestamp>
+	</VersionElement>
+</VersionInfoTable>

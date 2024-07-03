@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'After a date')
+#Wed Jul 03 11:05:56 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=ZkJ9Y8buJxHafeUaUrCirdqHFbn
+innovatorDisplayName=AfterADate
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=After a date
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

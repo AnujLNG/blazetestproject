@@ -1,0 +1,25 @@
+#Extended attributes for Innovator file-based repository (directory: 'Type Operators Provider_1')
+#Wed Jul 03 11:05:42 IST 2024
+contentType=Provider
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=I65e4RAJ30fEr1nGFtRuFeRBID6
+innovatorDisplayName=Type Operators Provider
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Type Operators Provider_1
+isSystemTemplate=true
+managementProperty.Is\ Versioned=false
+managementProperty.Last\ Modified\ Date=
+managementProperty.Repository\ Content\ Type=Provider
+managementProperty.Repository\ Type=Type Operator
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=Type Operator

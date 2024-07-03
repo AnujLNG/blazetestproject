@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'MatchesExpressionTemplate_1')
+#Wed Jul 03 11:05:44 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=Se2V4314SZDSKoZiV3D8wBOIHZ6
+innovatorDisplayName=HasConditionTemplate
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=MatchesExpressionTemplate_1
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

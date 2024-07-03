@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Blaze Advisor Repository - testrepo1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.fairisaac.eclipse.workspace.modelNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.blaze</name>
+			<type>2</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/.blaze/</locationURI>
+		</link>
+		<link>
+			<name>.innovator_repository_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/.innovator_repository_attbs</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_repository_config.cfg</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/com_blazesoft_repository_config.cfg</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_rom_config.cfg</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/com_blazesoft_rom_config.cfg</locationURI>
+		</link>
+		<link>
+			<name>com_blazesoft_rom_config.cfg.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/com_blazesoft_rom_config.cfg.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>system</name>
+			<type>2</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/system/</locationURI>
+		</link>
+		<link>
+			<name>system.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/system.innovator_attbs</locationURI>
+		</link>
+		<link>
+			<name>testproject1 Folder</name>
+			<type>2</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/testproject1%20Folder/</locationURI>
+		</link>
+		<link>
+			<name>testproject1 Folder.innovator_attbs</name>
+			<type>1</type>
+			<locationURI>adv:/E:/Blaze%20training/New%20folder1/private-repo1/testproject1%20Folder.innovator_attbs</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

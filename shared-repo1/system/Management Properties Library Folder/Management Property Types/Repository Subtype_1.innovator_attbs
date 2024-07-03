@@ -1,0 +1,15 @@
+#Extended attributes for Innovator file-based repository (directory: 'Repository Subtype_1')
+#Wed Jul 03 11:05:36 IST 2024
+contentType=Provider
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=1QvduR6kCVc2COKUBU2dErAo7IQ
+innovatorDisplayName=repository subtype
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Repository Subtype_1
+isSystemTemplate=true
+subType=None
+target=Repository
+type=Generic

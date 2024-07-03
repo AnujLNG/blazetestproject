@@ -1,0 +1,20 @@
+#Extended attributes for Innovator file-based repository (directory: 'MayFireWhenTemplate')
+#Wed Jul 03 11:05:57 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=XL7O1CWJoi7doUjbYd3AboNaA1J
+innovatorDisplayName=MayFireWhenTemplate
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=MayFireWhenTemplate
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=None
+target=SRL
+type=SRL Code

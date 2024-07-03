@@ -1,0 +1,19 @@
+#Extended attributes for Innovator file-based repository (directory: 'System Library_1')
+#Wed Jul 03 11:05:45 IST 2024
+contentType=Fixed
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=1ie0zOvN2aM1BaPfZLVRqRQ2p5N
+innovatorDisplayName=System Library
+innovatorItemCreationId=eclipse
+innovatorItemType=Innovator instance
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=System Library_1
+innovatorShortDesc=
+innovatorTemplateRef=ProjectEntityTemplate
+isSystemTemplate=true
+subType=None
+system.library.project.version=7.8.0.0
+target=Repository
+type=Project

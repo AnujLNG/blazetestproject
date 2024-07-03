@@ -1,0 +1,21 @@
+#Extended attributes for Innovator file-based repository (directory: 'Verification Query')
+#Wed Jul 03 11:05:59 IST 2024
+contentType=Template
+entryLastCheckInTime=03/07/24, 11\:05\u202Fam
+entryLastCheckInUser=eclipse
+guid=aRe3KG6OP8utjI4Wvol5qcNJgAW
+innovatorDisplayName=Verification Query
+innovatorItemCreationId=eclipse
+innovatorItemVersionId=1
+innovatorLastModifiedUser=eclipse
+innovatorName=Verification Query
+isSystemTemplate=true
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=Verification
+target=Repository
+type=Query

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<VersionInfoTable>
+	<ItemName>Creation Date</ItemName>
+	<IsEntryDeleted>false</IsEntryDeleted>
+	<VersionElement VersionId="1">
+		<User>eclipse</User>
+		<Comment>Sets up system folder</Comment>
+		<Timestamp>3 Jul 2024 05:35:38 GMT</Timestamp>
+	</VersionElement>
+</VersionInfoTable>
